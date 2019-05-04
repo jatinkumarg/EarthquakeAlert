@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Earthquake Alert</string>
+    <string name="recent_alerts">Recent Alerts</string>
+</resources>
